@@ -1,4 +1,4 @@
-SCREEN_NAME = bot42
+SCREEN_NAME = gemini_bot
 
 .PHONY: install run stop restart logs clean
 
